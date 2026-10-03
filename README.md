@@ -2,8 +2,7 @@
 
 Bash
 
-`ollama pull paligemma
-ollama pull gemma2`
+`ollama pull gemma3`
 
 Clone and install dependencies:
 
